@@ -1,0 +1,13 @@
+src/
+vendor/
+node_modules/
+gulpfile.js
+package.json
+package-lock.json
+.env
+cypress.config.js
+cypress/downloads
+cypress/fixtures
+cypress/screenshots
+cypress/support
+cypress/videos
